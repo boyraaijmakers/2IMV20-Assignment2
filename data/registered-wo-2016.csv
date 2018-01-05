@@ -215,7 +215,6 @@ Gelderland,268,NIJMEGEN,reguliere inst.,21PM,Radboud Universiteit Nijmegen,taal 
 Gelderland,268,NIJMEGEN,reguliere inst.,21PM,Radboud Universiteit Nijmegen,taal en cultuur,n.v.t. (taal en cultuur),66823,M Algemene Cultuurwetenschappen,voltijd onderwijs,master,3,4,0,0,0,0,0,0,0,0
 Gelderland,268,NIJMEGEN,reguliere inst.,21PM,Radboud Universiteit Nijmegen,taal en cultuur,n.v.t. (taal en cultuur),66824,M Kunstgeschiedenis,voltijd onderwijs,master,0,2,0,0,0,0,0,0,0,0
 Gelderland,268,NIJMEGEN,reguliere inst.,21PM,Radboud Universiteit Nijmegen,taal en cultuur,n.v.t. (taal en cultuur),66826,M Communicatie- & Informatiewetenschappen,voltijd onderwijs,master,28,99,28,103,31,117,36,112,27,116
-Gelderland,289,WAGENINGEN,reguliere inst.,21PI,Wageningen University,landbouw en natuurlijke omgeving,n.v.t. (landbouw en natuurlijke omgeving),6641,Rurale ontwikkelingsstudies,voltijd onderwijs,initiï¿½le opleiding,1,0,0,0,0,0,0,0,0,0
 Gelderland,289,WAGENINGEN,reguliere inst.,21PI,Wageningen University,landbouw en natuurlijke omgeving,n.v.t. (landbouw en natuurlijke omgeving),50016,B Communicatiewetenschappen,voltijd onderwijs,bachelor,16,47,18,47,9,46,12,48,15,41
 Gelderland,289,WAGENINGEN,reguliere inst.,21PI,Wageningen University,landbouw en natuurlijke omgeving,n.v.t. (landbouw en natuurlijke omgeving),50018,B Gezondheid en Maatschappij,voltijd onderwijs,bachelor,19,95,23,141,25,177,32,202,23,207
 Gelderland,289,WAGENINGEN,reguliere inst.,21PI,Wageningen University,landbouw en natuurlijke omgeving,n.v.t. (landbouw en natuurlijke omgeving),50100,B Internationaal Land- en Waterbeheer,voltijd onderwijs,bachelor,105,56,115,69,121,76,133,78,154,95
@@ -614,9 +613,6 @@ Groningen,14,GRONINGEN,reguliere inst.,21PC,Rijksuniversiteit Groningen,techniek
 Groningen,14,GRONINGEN,reguliere inst.,21PC,Rijksuniversiteit Groningen,techniek,n.v.t. (techniek),66226,M Biomedical Engineering,voltijd onderwijs,master,38,18,48,21,40,27,31,28,38,29
 Groningen,14,GRONINGEN,reguliere inst.,25BE,Hanzehogeschool Groningen,economie,n.v.t. (economie),69298,M European Master in Sustainable Energy System Management,voltijd onderwijs,master,0,0,0,0,0,0,6,2,18,7
 Groningen,14,GRONINGEN,reguliere inst.,25BE,Hanzehogeschool Groningen,techniek,n.v.t. (techniek),69299,M European Master in Renewable Energy,voltijd onderwijs,master,0,0,0,0,15,1,28,0,43,3
-Limburg,935,MAASTRICHT,WO kleine univ.,27YA,transnationale Universiteit Limburg,natuur,n.v.t. (natuur),60125,M Operations Research,voltijd onderwijs,master,25,8,26,11,29,4,25,1,23,4
-Limburg,935,MAASTRICHT,WO kleine univ.,27YA,transnationale Universiteit Limburg,natuur,n.v.t. (natuur),66981,M Artificial Intelligence,voltijd onderwijs,master,45,3,65,6,62,10,54,11,51,11
-Limburg,935,MAASTRICHT,WO kleine univ.,27YA,transnationale Universiteit Limburg,natuur,n.v.t. (natuur),66990,M Biomedical Sciences,voltijd onderwijs,master,58,54,49,61,44,77,57,89,63,88
 Limburg,935,MAASTRICHT,reguliere inst.,21PJ,Universiteit Maastricht,economie,n.v.t. (economie),50019,B International Business,voltijd onderwijs,bachelor,953,641,987,709,1023,777,1043,870,1063,910
 Limburg,935,MAASTRICHT,reguliere inst.,21PJ,Universiteit Maastricht,economie,n.v.t. (economie),50950,B Economie en Bedrijfseconomie,voltijd onderwijs,bachelor,549,216,542,223,565,251,542,271,539,280
 Limburg,935,MAASTRICHT,reguliere inst.,21PJ,Universiteit Maastricht,economie,n.v.t. (economie),56402,B Fiscale Economie,voltijd onderwijs,bachelor,109,39,125,48,122,48,96,44,94,41
@@ -701,6 +697,9 @@ Limburg,935,MAASTRICHT,reguliere inst.,21PJ,Universiteit Maastricht,taal en cult
 Limburg,935,MAASTRICHT,reguliere inst.,21PJ,Universiteit Maastricht,taal en cultuur,n.v.t. (taal en cultuur),60341,"M Cultures of Arts, Science and Technology (research)",voltijd onderwijs,master,2,8,0,2,0,0,0,0,0,0
 Limburg,935,MAASTRICHT,reguliere inst.,21PJ,Universiteit Maastricht,taal en cultuur,n.v.t. (taal en cultuur),60829,M Kunst- & cultuurwetenschappen (research),voltijd onderwijs,master,7,4,8,9,5,8,6,8,4,3
 Limburg,935,MAASTRICHT,reguliere inst.,21PJ,Universiteit Maastricht,taal en cultuur,n.v.t. (taal en cultuur),60830,M Mediastudies,voltijd onderwijs,master,7,21,3,14,2,20,4,16,4,12
+Limburg,935,MAASTRICHT,WO kleine univ.,27YA,transnationale Universiteit Limburg,natuur,n.v.t. (natuur),60125,M Operations Research,voltijd onderwijs,master,25,8,26,11,29,4,25,1,23,4
+Limburg,935,MAASTRICHT,WO kleine univ.,27YA,transnationale Universiteit Limburg,natuur,n.v.t. (natuur),66981,M Artificial Intelligence,voltijd onderwijs,master,45,3,65,6,62,10,54,11,51,11
+Limburg,935,MAASTRICHT,WO kleine univ.,27YA,transnationale Universiteit Limburg,natuur,n.v.t. (natuur),66990,M Biomedical Sciences,voltijd onderwijs,master,58,54,49,61,44,77,57,89,63,88
 Noord-Brabant,758,BREDA,reguliere inst.,21UI,NHTV Internationale Hogeschool Breda,gedrag en maatschappij,n.v.t. (gedrag en maatschappij),50756,B Vrijetijdwetenschappen,voltijd onderwijs,bachelor,17,28,18,37,12,40,13,40,15,52
 Noord-Brabant,758,BREDA,reguliere inst.,21UI,NHTV Internationale Hogeschool Breda,gedrag en maatschappij,n.v.t. (gedrag en maatschappij),60078,M Leisure Studies,voltijd onderwijs,master,0,0,0,0,7,15,7,14,5,6
 Noord-Brabant,758,BREDA,reguliere inst.,21UI,NHTV Internationale Hogeschool Breda,sectoroverstijgend,sectoroverstijgend,55001,B Tourism (joint degree),voltijd onderwijs,bachelor,0,3,5,15,0,0,1,0,1,0
@@ -876,19 +875,6 @@ Noord-Brabant,855,TILBURG,reguliere inst.,21PN,Tilburg University,taal en cultuu
 Noord-Brabant,855,TILBURG,reguliere inst.,21PN,Tilburg University,taal en cultuur,n.v.t. (taal en cultuur),66826,M Communicatie- & Informatiewetenschappen,deeltijd onderwijs,master,2,3,1,1,3,2,4,1,3,3
 Noord-Brabant,855,TILBURG,reguliere inst.,21PN,Tilburg University,taal en cultuur,n.v.t. (taal en cultuur),66826,M Communicatie- & Informatiewetenschappen,voltijd onderwijs,master,100,216,78,218,89,175,103,179,112,228
 Noord-Brabant,855,TILBURG,reguliere inst.,21PN,Tilburg University,techniek,n.v.t. (techniek),65018,M Data Science and Entrepreneurship (joint degree),voltijd onderwijs,master,0,0,0,0,0,0,0,0,9,1
-Noord-Holland,363,AMSTERDAM,WO kleine univ.,00DV,Protestantse Theologische Universiteit,taal en cultuur,n.v.t. (taal en cultuur),50021,B Theologie Klassiek,deeltijd onderwijs,bachelor,3,3,3,3,0,2,0,0,0,0
-Noord-Holland,363,AMSTERDAM,WO kleine univ.,00DV,Protestantse Theologische Universiteit,taal en cultuur,n.v.t. (taal en cultuur),50021,B Theologie Klassiek,voltijd onderwijs,bachelor,37,14,16,8,3,4,0,0,0,0
-Noord-Holland,363,AMSTERDAM,WO kleine univ.,00DV,Protestantse Theologische Universiteit,taal en cultuur,n.v.t. (taal en cultuur),50022,B Theologie Plus,voltijd onderwijs,bachelor,1,1,0,0,0,0,0,0,0,0
-Noord-Holland,363,AMSTERDAM,WO kleine univ.,00DV,Protestantse Theologische Universiteit,taal en cultuur,n.v.t. (taal en cultuur),55004,B Theologie (joint degree),deeltijd onderwijs,bachelor,1,1,3,1,6,2,4,2,9,2
-Noord-Holland,363,AMSTERDAM,WO kleine univ.,00DV,Protestantse Theologische Universiteit,taal en cultuur,n.v.t. (taal en cultuur),55004,B Theologie (joint degree),voltijd onderwijs,bachelor,9,5,17,5,23,8,19,6,20,9
-Noord-Holland,363,AMSTERDAM,WO kleine univ.,00DV,Protestantse Theologische Universiteit,taal en cultuur,n.v.t. (taal en cultuur),60261,M Predikantschap,deeltijd onderwijs,master,3,6,0,0,0,0,0,0,0,0
-Noord-Holland,363,AMSTERDAM,WO kleine univ.,00DV,Protestantse Theologische Universiteit,taal en cultuur,n.v.t. (taal en cultuur),60261,M Predikantschap,voltijd onderwijs,master,12,17,9,17,7,23,10,20,11,17
-Noord-Holland,363,AMSTERDAM,WO kleine univ.,00DV,Protestantse Theologische Universiteit,taal en cultuur,n.v.t. (taal en cultuur),60262,M Geestelijke Verzorging,deeltijd onderwijs,master,0,2,0,0,0,0,0,0,0,0
-Noord-Holland,363,AMSTERDAM,WO kleine univ.,00DV,Protestantse Theologische Universiteit,taal en cultuur,n.v.t. (taal en cultuur),60262,M Geestelijke Verzorging,voltijd onderwijs,master,2,13,2,7,0,0,0,0,0,0
-Noord-Holland,363,AMSTERDAM,WO kleine univ.,00DV,Protestantse Theologische Universiteit,taal en cultuur,n.v.t. (taal en cultuur),60264,M Verdieping,deeltijd onderwijs,master,3,2,2,3,0,0,0,0,0,0
-Noord-Holland,363,AMSTERDAM,WO kleine univ.,00DV,Protestantse Theologische Universiteit,taal en cultuur,n.v.t. (taal en cultuur),60264,M Verdieping,voltijd onderwijs,master,9,6,16,7,17,5,16,8,15,7
-Noord-Holland,363,AMSTERDAM,WO kleine univ.,00DV,Protestantse Theologische Universiteit,taal en cultuur,n.v.t. (taal en cultuur),66122,M Gemeentepredikant,deeltijd onderwijs,master,43,17,48,20,52,17,50,13,46,9
-Noord-Holland,363,AMSTERDAM,WO kleine univ.,00DV,Protestantse Theologische Universiteit,taal en cultuur,n.v.t. (taal en cultuur),66122,M Gemeentepredikant,voltijd onderwijs,master,42,28,44,28,42,22,42,23,36,19
 Noord-Holland,363,AMSTERDAM,reguliere inst.,21PK,Universiteit van Amsterdam,economie,n.v.t. (economie),50905,B Economie en Bedrijfskunde,voltijd onderwijs,bachelor,518,329,480,306,1592,815,1565,838,1634,909
 Noord-Holland,363,AMSTERDAM,reguliere inst.,21PK,Universiteit van Amsterdam,economie,n.v.t. (economie),50905,B Economie en Bedrijfskunde,voltijd onderwijs,propedeuse bachelor,781,345,991,488,0,0,0,0,0,0
 Noord-Holland,363,AMSTERDAM,reguliere inst.,21PK,Universiteit van Amsterdam,economie,n.v.t. (economie),56402,B Fiscale Economie,voltijd onderwijs,bachelor,46,29,47,37,98,55,121,59,125,68
@@ -966,9 +952,6 @@ Noord-Holland,363,AMSTERDAM,reguliere inst.,21PK,Universiteit van Amsterdam,gedr
 Noord-Holland,363,AMSTERDAM,reguliere inst.,21PK,Universiteit van Amsterdam,gedrag en maatschappij,n.v.t. (gedrag en maatschappij),66622,M Planologie,duaal onderwijs,master,1,0,0,0,0,0,0,0,0,0
 Noord-Holland,363,AMSTERDAM,reguliere inst.,21PK,Universiteit van Amsterdam,gedrag en maatschappij,n.v.t. (gedrag en maatschappij),66622,M Planologie,voltijd onderwijs,master,63,13,36,13,30,22,36,18,33,28
 Noord-Holland,363,AMSTERDAM,reguliere inst.,21PK,Universiteit van Amsterdam,gedrag en maatschappij,n.v.t. (gedrag en maatschappij),69314,M Conflict Resolution and Governance,voltijd onderwijs,master,9,19,15,16,12,18,10,26,7,31
-Noord-Holland,363,AMSTERDAM,reguliere inst.,21PK,Universiteit van Amsterdam,gezondheidszorg,n.v.t. (gezondheidszorg),6551,Geneeskunde,voltijd onderwijs,beroepsfase,135,311,135,300,78,193,55,89,14,20
-Noord-Holland,363,AMSTERDAM,reguliere inst.,21PK,Universiteit van Amsterdam,gezondheidszorg,n.v.t. (gezondheidszorg),6551,Geneeskunde,voltijd onderwijs,initiï¿½le opleiding,183,286,99,137,57,69,25,25,10,6
-Noord-Holland,363,AMSTERDAM,reguliere inst.,21PK,Universiteit van Amsterdam,gezondheidszorg,n.v.t. (gezondheidszorg),6551,Geneeskunde,voltijd onderwijs,propedeuse,8,8,4,3,4,1,0,0,0,0
 Noord-Holland,363,AMSTERDAM,reguliere inst.,21PK,Universiteit van Amsterdam,gezondheidszorg,n.v.t. (gezondheidszorg),56551,B Geneeskunde,voltijd onderwijs,bachelor,444,768,491,763,481,776,459,791,455,781
 Noord-Holland,363,AMSTERDAM,reguliere inst.,21PK,Universiteit van Amsterdam,gezondheidszorg,n.v.t. (gezondheidszorg),56551,B Geneeskunde,voltijd onderwijs,propedeuse bachelor,0,2,0,1,0,1,0,1,0,1
 Noord-Holland,363,AMSTERDAM,reguliere inst.,21PK,Universiteit van Amsterdam,gezondheidszorg,n.v.t. (gezondheidszorg),56560,B Tandheelkunde,voltijd onderwijs,bachelor,94,144,98,153,88,142,80,147,84,178
@@ -976,6 +959,7 @@ Noord-Holland,363,AMSTERDAM,reguliere inst.,21PK,Universiteit van Amsterdam,gezo
 Noord-Holland,363,AMSTERDAM,reguliere inst.,21PK,Universiteit van Amsterdam,gezondheidszorg,n.v.t. (gezondheidszorg),56573,B Medische Informatiekunde,voltijd onderwijs,propedeuse bachelor,17,13,23,26,36,23,42,29,24,32
 Noord-Holland,363,AMSTERDAM,reguliere inst.,21PK,Universiteit van Amsterdam,gezondheidszorg,n.v.t. (gezondheidszorg),56990,B Biomedische Wetenschappen,voltijd onderwijs,bachelor,155,210,134,221,144,243,143,264,142,253
 Noord-Holland,363,AMSTERDAM,reguliere inst.,21PK,Universiteit van Amsterdam,gezondheidszorg,n.v.t. (gezondheidszorg),56990,B Biomedische Wetenschappen,voltijd onderwijs,propedeuse bachelor,0,0,6,5,6,9,5,8,3,6
+Noord-Holland,363,AMSTERDAM,reguliere inst.,21PK,Universiteit van Amsterdam,gezondheidszorg,n.v.t. (gezondheidszorg),6551,Geneeskunde,voltijd onderwijs,propedeuse,8,8,4,3,4,1,0,0,0,0
 Noord-Holland,363,AMSTERDAM,reguliere inst.,21PK,Universiteit van Amsterdam,gezondheidszorg,n.v.t. (gezondheidszorg),66551,M Geneeskunde,voltijd onderwijs,master,10,36,82,197,156,378,286,622,334,658
 Noord-Holland,363,AMSTERDAM,reguliere inst.,21PK,Universiteit van Amsterdam,gezondheidszorg,n.v.t. (gezondheidszorg),66560,M Tandheelkunde,voltijd onderwijs,master,2,1,0,0,0,0,0,0,0,0
 Noord-Holland,363,AMSTERDAM,reguliere inst.,21PK,Universiteit van Amsterdam,gezondheidszorg,n.v.t. (gezondheidszorg),66573,M Medical Informatics,voltijd onderwijs,master,20,5,22,12,23,14,22,20,25,23
@@ -1537,6 +1521,19 @@ Noord-Holland,363,AMSTERDAM,reguliere inst.,21PL,Vrije Universiteit Amsterdam,ta
 Noord-Holland,363,AMSTERDAM,reguliere inst.,21PL,Vrije Universiteit Amsterdam,taal en cultuur,n.v.t. (taal en cultuur),66826,M Communicatie- & Informatiewetenschappen,voltijd onderwijs,master,17,75,20,73,23,92,29,64,33,87
 Noord-Holland,363,AMSTERDAM,reguliere inst.,21PL,Vrije Universiteit Amsterdam,taal en cultuur,n.v.t. (taal en cultuur),67084,M Wijsbegeerte van een Bepaald Wetenschapsgebied,deeltijd onderwijs,master,1,1,1,0,0,0,0,0,0,0
 Noord-Holland,363,AMSTERDAM,reguliere inst.,21PL,Vrije Universiteit Amsterdam,taal en cultuur,n.v.t. (taal en cultuur),67084,M Wijsbegeerte van een Bepaald Wetenschapsgebied,voltijd onderwijs,master,3,2,1,1,0,0,0,0,0,0
+Noord-Holland,363,AMSTERDAM,WO kleine univ.,00DV,Protestantse Theologische Universiteit,taal en cultuur,n.v.t. (taal en cultuur),50021,B Theologie Klassiek,deeltijd onderwijs,bachelor,3,3,3,3,0,2,0,0,0,0
+Noord-Holland,363,AMSTERDAM,WO kleine univ.,00DV,Protestantse Theologische Universiteit,taal en cultuur,n.v.t. (taal en cultuur),50021,B Theologie Klassiek,voltijd onderwijs,bachelor,37,14,16,8,3,4,0,0,0,0
+Noord-Holland,363,AMSTERDAM,WO kleine univ.,00DV,Protestantse Theologische Universiteit,taal en cultuur,n.v.t. (taal en cultuur),50022,B Theologie Plus,voltijd onderwijs,bachelor,1,1,0,0,0,0,0,0,0,0
+Noord-Holland,363,AMSTERDAM,WO kleine univ.,00DV,Protestantse Theologische Universiteit,taal en cultuur,n.v.t. (taal en cultuur),55004,B Theologie (joint degree),deeltijd onderwijs,bachelor,1,1,3,1,6,2,4,2,9,2
+Noord-Holland,363,AMSTERDAM,WO kleine univ.,00DV,Protestantse Theologische Universiteit,taal en cultuur,n.v.t. (taal en cultuur),55004,B Theologie (joint degree),voltijd onderwijs,bachelor,9,5,17,5,23,8,19,6,20,9
+Noord-Holland,363,AMSTERDAM,WO kleine univ.,00DV,Protestantse Theologische Universiteit,taal en cultuur,n.v.t. (taal en cultuur),60261,M Predikantschap,deeltijd onderwijs,master,3,6,0,0,0,0,0,0,0,0
+Noord-Holland,363,AMSTERDAM,WO kleine univ.,00DV,Protestantse Theologische Universiteit,taal en cultuur,n.v.t. (taal en cultuur),60261,M Predikantschap,voltijd onderwijs,master,12,17,9,17,7,23,10,20,11,17
+Noord-Holland,363,AMSTERDAM,WO kleine univ.,00DV,Protestantse Theologische Universiteit,taal en cultuur,n.v.t. (taal en cultuur),60262,M Geestelijke Verzorging,deeltijd onderwijs,master,0,2,0,0,0,0,0,0,0,0
+Noord-Holland,363,AMSTERDAM,WO kleine univ.,00DV,Protestantse Theologische Universiteit,taal en cultuur,n.v.t. (taal en cultuur),60262,M Geestelijke Verzorging,voltijd onderwijs,master,2,13,2,7,0,0,0,0,0,0
+Noord-Holland,363,AMSTERDAM,WO kleine univ.,00DV,Protestantse Theologische Universiteit,taal en cultuur,n.v.t. (taal en cultuur),60264,M Verdieping,deeltijd onderwijs,master,3,2,2,3,0,0,0,0,0,0
+Noord-Holland,363,AMSTERDAM,WO kleine univ.,00DV,Protestantse Theologische Universiteit,taal en cultuur,n.v.t. (taal en cultuur),60264,M Verdieping,voltijd onderwijs,master,9,6,16,7,17,5,16,8,15,7
+Noord-Holland,363,AMSTERDAM,WO kleine univ.,00DV,Protestantse Theologische Universiteit,taal en cultuur,n.v.t. (taal en cultuur),66122,M Gemeentepredikant,deeltijd onderwijs,master,43,17,48,20,52,17,50,13,46,9
+Noord-Holland,363,AMSTERDAM,WO kleine univ.,00DV,Protestantse Theologische Universiteit,taal en cultuur,n.v.t. (taal en cultuur),66122,M Gemeentepredikant,voltijd onderwijs,master,42,28,44,28,42,22,42,23,36,19
 Overijssel,153,ENSCHEDE,reguliere inst.,21PH,Universiteit Twente,economie,n.v.t. (economie),50645,B Bedrijfskunde,voltijd onderwijs,bachelor,176,103,0,0,0,0,0,0,0,0
 Overijssel,153,ENSCHEDE,reguliere inst.,21PH,Universiteit Twente,economie,n.v.t. (economie),50645,B Bedrijfskunde,voltijd onderwijs,propedeuse bachelor,356,203,0,0,0,0,0,0,0,0
 Overijssel,153,ENSCHEDE,reguliere inst.,21PH,Universiteit Twente,economie,n.v.t. (economie),50952,B International Business Administration,voltijd onderwijs,bachelor,0,0,346,207,448,253,389,213,372,176
@@ -1626,9 +1623,6 @@ Overijssel,166,KAMPEN,WO kleine univ.,25AV,Theologische Universiteit Kampen,taal
 Overijssel,166,KAMPEN,WO kleine univ.,25AV,Theologische Universiteit Kampen,taal en cultuur,n.v.t. (taal en cultuur),60257,M Theologie,voltijd onderwijs,master,28,2,33,2,29,1,32,1,30,1
 Overijssel,166,KAMPEN,WO kleine univ.,25AV,Theologische Universiteit Kampen,taal en cultuur,n.v.t. (taal en cultuur),66117,M Theologie Algemeen,deeltijd onderwijs,master,13,3,14,5,11,3,14,6,15,6
 Overijssel,166,KAMPEN,WO kleine univ.,25AV,Theologische Universiteit Kampen,taal en cultuur,n.v.t. (taal en cultuur),66117,M Theologie Algemeen,voltijd onderwijs,master,17,5,13,3,8,1,11,1,8,3
-Utrecht,344,UTRECHT,WO kleine univ.,23BF,Universiteit voor Humanistiek,taal en cultuur,n.v.t. (taal en cultuur),56105,B Humanistiek,voltijd onderwijs,bachelor,61,144,67,165,74,225,71,238,76,221
-Utrecht,344,UTRECHT,WO kleine univ.,23BF,Universiteit voor Humanistiek,taal en cultuur,n.v.t. (taal en cultuur),60953,M Zorgethiek en Beleid,voltijd onderwijs,master,0,0,10,32,11,30,11,36,8,46
-Utrecht,344,UTRECHT,WO kleine univ.,23BF,Universiteit voor Humanistiek,taal en cultuur,n.v.t. (taal en cultuur),66105,M Humanistiek,voltijd onderwijs,master,38,127,39,134,41,131,43,128,42,114
 Utrecht,344,UTRECHT,reguliere inst.,21PD,Universiteit Utrecht,economie,n.v.t. (economie),50950,B Economie en Bedrijfseconomie,voltijd onderwijs,bachelor,673,356,727,369,763,379,667,331,633,302
 Utrecht,344,UTRECHT,reguliere inst.,21PD,Universiteit Utrecht,economie,n.v.t. (economie),60388,M Economics of Competition and Regulation,voltijd onderwijs,master,7,3,13,3,3,7,8,9,10,7
 Utrecht,344,UTRECHT,reguliere inst.,21PD,Universiteit Utrecht,economie,n.v.t. (economie),60389,M Economics of Public Policy and Management,voltijd onderwijs,master,17,10,12,12,14,13,18,8,28,22
@@ -1670,12 +1664,11 @@ Utrecht,344,UTRECHT,reguliere inst.,21PD,Universiteit Utrecht,gedrag en maatscha
 Utrecht,344,UTRECHT,reguliere inst.,21PD,Universiteit Utrecht,gedrag en maatschappij,n.v.t. (gedrag en maatschappij),66622,M Planologie,deeltijd onderwijs,master,2,1,0,2,2,3,2,2,4,0
 Utrecht,344,UTRECHT,reguliere inst.,21PD,Universiteit Utrecht,gedrag en maatschappij,n.v.t. (gedrag en maatschappij),66622,M Planologie,voltijd onderwijs,master,43,22,40,23,42,23,29,19,26,27
 Utrecht,344,UTRECHT,reguliere inst.,21PD,Universiteit Utrecht,gedrag en maatschappij,n.v.t. (gedrag en maatschappij),66631,"M Migration, Ethnic relations and Multiculturalism (research)",voltijd onderwijs,master,3,16,4,12,4,18,5,25,6,28
-Utrecht,344,UTRECHT,reguliere inst.,21PD,Universiteit Utrecht,gezondheidszorg,n.v.t. (gezondheidszorg),6570,Diergeneeskunde,voltijd onderwijs,beroepsfase,61,181,25,64,4,7,3,2,0,0
-Utrecht,344,UTRECHT,reguliere inst.,21PD,Universiteit Utrecht,gezondheidszorg,n.v.t. (gezondheidszorg),6570,Diergeneeskunde,voltijd onderwijs,initiï¿½le opleiding,2,0,2,0,2,0,0,0,0,0
 Utrecht,344,UTRECHT,reguliere inst.,21PD,Universiteit Utrecht,gezondheidszorg,n.v.t. (gezondheidszorg),56551,B Geneeskunde,voltijd onderwijs,bachelor,314,661,318,663,327,654,352,628,354,660
 Utrecht,344,UTRECHT,reguliere inst.,21PD,Universiteit Utrecht,gezondheidszorg,n.v.t. (gezondheidszorg),56570,B Diergeneeskunde,voltijd onderwijs,bachelor,142,603,158,625,149,641,145,582,138,582
 Utrecht,344,UTRECHT,reguliere inst.,21PD,Universiteit Utrecht,gezondheidszorg,n.v.t. (gezondheidszorg),56990,B Biomedische Wetenschappen,voltijd onderwijs,bachelor,195,287,196,285,195,292,173,303,155,332
 Utrecht,344,UTRECHT,reguliere inst.,21PD,Universiteit Utrecht,gezondheidszorg,n.v.t. (gezondheidszorg),60704,M Neuroscience and Cognition,voltijd onderwijs,master,43,54,36,81,27,93,34,97,25,99
+Utrecht,344,UTRECHT,reguliere inst.,21PD,Universiteit Utrecht,gezondheidszorg,n.v.t. (gezondheidszorg),6570,Diergeneeskunde,voltijd onderwijs,beroepsfase,61,181,25,64,4,7,3,2,0,0
 Utrecht,344,UTRECHT,reguliere inst.,21PD,Universiteit Utrecht,gezondheidszorg,n.v.t. (gezondheidszorg),66551,M Geneeskunde,voltijd onderwijs,master,280,688,281,712,283,722,307,750,302,702
 Utrecht,344,UTRECHT,reguliere inst.,21PD,Universiteit Utrecht,gezondheidszorg,n.v.t. (gezondheidszorg),66563,M Klinische Gezondheidswetenschappen,deeltijd onderwijs,master,26,111,33,101,30,104,28,119,39,140
 Utrecht,344,UTRECHT,reguliere inst.,21PD,Universiteit Utrecht,gezondheidszorg,n.v.t. (gezondheidszorg),66570,M Diergeneeskunde,voltijd onderwijs,master,88,404,118,475,136,488,133,552,131,531
@@ -1855,6 +1848,9 @@ Utrecht,344,UTRECHT,reguliere inst.,21PD,Universiteit Utrecht,taal en cultuur,n.
 Utrecht,344,UTRECHT,reguliere inst.,21PD,Universiteit Utrecht,taal en cultuur,n.v.t. (taal en cultuur),66811,M Portugese Taal en Cultuur,voltijd onderwijs,master,0,1,0,0,0,0,0,0,0,0
 Utrecht,344,UTRECHT,reguliere inst.,21PD,Universiteit Utrecht,taal en cultuur,n.v.t. (taal en cultuur),66824,M Kunstgeschiedenis,voltijd onderwijs,master,6,6,3,3,0,0,0,0,0,0
 Utrecht,344,UTRECHT,reguliere inst.,21PD,Universiteit Utrecht,taal en cultuur,n.v.t. (taal en cultuur),66826,M Communicatie- & Informatiewetenschappen,voltijd onderwijs,master,15,41,11,49,3,3,0,0,0,0
+Utrecht,344,UTRECHT,WO kleine univ.,23BF,Universiteit voor Humanistiek,taal en cultuur,n.v.t. (taal en cultuur),56105,B Humanistiek,voltijd onderwijs,bachelor,61,144,67,165,74,225,71,238,76,221
+Utrecht,344,UTRECHT,WO kleine univ.,23BF,Universiteit voor Humanistiek,taal en cultuur,n.v.t. (taal en cultuur),60953,M Zorgethiek en Beleid,voltijd onderwijs,master,0,0,10,32,11,30,11,36,8,46
+Utrecht,344,UTRECHT,WO kleine univ.,23BF,Universiteit voor Humanistiek,taal en cultuur,n.v.t. (taal en cultuur),66105,M Humanistiek,voltijd onderwijs,master,38,127,39,134,41,131,43,128,42,114
 Zuid-Holland,503,DELFT,reguliere inst.,21PF,Technische Universiteit Delft,gezondheidszorg,n.v.t. (gezondheidszorg),55007,B Klinische Technologie (joint degree),voltijd onderwijs,bachelor,0,0,0,0,44,55,61,110,84,164
 Zuid-Holland,503,DELFT,reguliere inst.,21PF,Technische Universiteit Delft,onderwijs,universitaire lerarenopleidingen,68404,M Science Education and Communication,deeltijd onderwijs,master,3,2,6,7,5,6,7,7,8,6
 Zuid-Holland,503,DELFT,reguliere inst.,21PF,Technische Universiteit Delft,onderwijs,universitaire lerarenopleidingen,68404,M Science Education and Communication,voltijd onderwijs,master,34,19,34,19,29,18,41,33,44,34
@@ -1961,14 +1957,13 @@ Zuid-Holland,546,LEIDEN,reguliere inst.,21PB,Universiteit Leiden,gedrag en maats
 Zuid-Holland,546,LEIDEN,reguliere inst.,21PB,Universiteit Leiden,gedrag en maatschappij,n.v.t. (gedrag en maatschappij),60421,M Political Science and Public Administration (research),voltijd onderwijs,master,12,8,13,12,18,11,11,12,14,10
 Zuid-Holland,546,LEIDEN,reguliere inst.,21PB,Universiteit Leiden,gedrag en maatschappij,n.v.t. (gedrag en maatschappij),60500,M European Union Studies,voltijd onderwijs,master,12,19,6,3,3,2,0,0,0,0
 Zuid-Holland,546,LEIDEN,reguliere inst.,21PB,Universiteit Leiden,gedrag en maatschappij,n.v.t. (gedrag en maatschappij),66604,M Psychology,voltijd onderwijs,master,153,598,187,702,188,793,227,842,252,842
-Zuid-Holland,546,LEIDEN,reguliere inst.,21PB,Universiteit Leiden,gezondheidszorg,n.v.t. (gezondheidszorg),6551,Geneeskunde,voltijd onderwijs,beroepsfase,45,91,32,56,21,19,14,11,0,0
-Zuid-Holland,546,LEIDEN,reguliere inst.,21PB,Universiteit Leiden,gezondheidszorg,n.v.t. (gezondheidszorg),6551,Geneeskunde,voltijd onderwijs,initiï¿½le opleiding,119,146,59,47,26,22,12,8,0,0
-Zuid-Holland,546,LEIDEN,reguliere inst.,21PB,Universiteit Leiden,gezondheidszorg,n.v.t. (gezondheidszorg),6551,Geneeskunde,voltijd onderwijs,propedeuse,0,1,0,0,0,0,0,0,0,0
 Zuid-Holland,546,LEIDEN,reguliere inst.,21PB,Universiteit Leiden,gezondheidszorg,n.v.t. (gezondheidszorg),56551,B Geneeskunde,voltijd onderwijs,bachelor,230,433,215,429,250,406,238,384,224,361
 Zuid-Holland,546,LEIDEN,reguliere inst.,21PB,Universiteit Leiden,gezondheidszorg,n.v.t. (gezondheidszorg),56551,B Geneeskunde,voltijd onderwijs,propedeuse bachelor,181,317,180,269,170,248,184,261,162,328
 Zuid-Holland,546,LEIDEN,reguliere inst.,21PB,Universiteit Leiden,gezondheidszorg,n.v.t. (gezondheidszorg),56990,B Biomedische Wetenschappen,voltijd onderwijs,bachelor,31,54,34,58,41,89,40,87,30,89
 Zuid-Holland,546,LEIDEN,reguliere inst.,21PB,Universiteit Leiden,gezondheidszorg,n.v.t. (gezondheidszorg),56990,B Biomedische Wetenschappen,voltijd onderwijs,propedeuse bachelor,36,84,27,89,18,60,18,63,24,64
 Zuid-Holland,546,LEIDEN,reguliere inst.,21PB,Universiteit Leiden,gezondheidszorg,n.v.t. (gezondheidszorg),60515,M Vitality and Ageing,voltijd onderwijs,master,0,0,0,0,0,0,0,0,3,13
+Zuid-Holland,546,LEIDEN,reguliere inst.,21PB,Universiteit Leiden,gezondheidszorg,n.v.t. (gezondheidszorg),6551,Geneeskunde,voltijd onderwijs,beroepsfase,45,91,32,56,21,19,14,11,0,0
+Zuid-Holland,546,LEIDEN,reguliere inst.,21PB,Universiteit Leiden,gezondheidszorg,n.v.t. (gezondheidszorg),6551,Geneeskunde,voltijd onderwijs,propedeuse,0,1,0,0,0,0,0,0,0,0
 Zuid-Holland,546,LEIDEN,reguliere inst.,21PB,Universiteit Leiden,gezondheidszorg,n.v.t. (gezondheidszorg),66551,M Geneeskunde,voltijd onderwijs,master,173,401,269,610,298,689,333,694,339,676
 Zuid-Holland,546,LEIDEN,reguliere inst.,21PB,Universiteit Leiden,gezondheidszorg,n.v.t. (gezondheidszorg),66990,M Biomedical Sciences,voltijd onderwijs,master,44,83,58,100,54,133,68,142,88,164
 Zuid-Holland,546,LEIDEN,reguliere inst.,21PB,Universiteit Leiden,natuur,n.v.t. (natuur),50205,B Sterrenkunde,deeltijd onderwijs,bachelor,2,0,1,0,0,0,0,0,0,0
@@ -2275,9 +2270,6 @@ Zuid-Holland,599,ROTTERDAM,reguliere inst.,21PE,Erasmus Universiteit Rotterdam,g
 Zuid-Holland,599,ROTTERDAM,reguliere inst.,21PE,Erasmus Universiteit Rotterdam,gedrag en maatschappij,n.v.t. (gedrag en maatschappij),66601,M Sociologie,deeltijd onderwijs,master,38,60,30,62,20,53,22,35,20,14
 Zuid-Holland,599,ROTTERDAM,reguliere inst.,21PE,Erasmus Universiteit Rotterdam,gedrag en maatschappij,n.v.t. (gedrag en maatschappij),66601,M Sociologie,voltijd onderwijs,master,62,106,49,74,47,73,45,57,57,74
 Zuid-Holland,599,ROTTERDAM,reguliere inst.,21PE,Erasmus Universiteit Rotterdam,gedrag en maatschappij,n.v.t. (gedrag en maatschappij),66604,M Psychology,voltijd onderwijs,master,64,240,69,277,69,290,76,263,75,274
-Zuid-Holland,599,ROTTERDAM,reguliere inst.,21PE,Erasmus Universiteit Rotterdam,gezondheidszorg,n.v.t. (gezondheidszorg),6551,Geneeskunde,voltijd onderwijs,beroepsfase,186,344,129,241,44,56,13,22,0,0
-Zuid-Holland,599,ROTTERDAM,reguliere inst.,21PE,Erasmus Universiteit Rotterdam,gezondheidszorg,n.v.t. (gezondheidszorg),6551,Geneeskunde,voltijd onderwijs,initiï¿½le opleiding,97,136,35,26,10,9,5,5,0,0
-Zuid-Holland,599,ROTTERDAM,reguliere inst.,21PE,Erasmus Universiteit Rotterdam,gezondheidszorg,n.v.t. (gezondheidszorg),6551,Geneeskunde,voltijd onderwijs,propedeuse,2,2,0,0,0,0,0,0,0,0
 Zuid-Holland,599,ROTTERDAM,reguliere inst.,21PE,Erasmus Universiteit Rotterdam,gezondheidszorg,n.v.t. (gezondheidszorg),56551,B Geneeskunde,voltijd onderwijs,bachelor,583,824,546,819,528,860,493,870,462,910
 Zuid-Holland,599,ROTTERDAM,reguliere inst.,21PE,Erasmus Universiteit Rotterdam,gezondheidszorg,n.v.t. (gezondheidszorg),56553,B Gezondheidswetenschappen,voltijd onderwijs,bachelor,111,271,125,294,103,299,95,297,62,274
 Zuid-Holland,599,ROTTERDAM,reguliere inst.,21PE,Erasmus Universiteit Rotterdam,gezondheidszorg,n.v.t. (gezondheidszorg),60081,M Zorgmanagement,deeltijd onderwijs,master,9,27,34,106,37,111,27,117,31,107
@@ -2290,6 +2282,8 @@ Zuid-Holland,599,ROTTERDAM,reguliere inst.,21PE,Erasmus Universiteit Rotterdam,g
 Zuid-Holland,599,ROTTERDAM,reguliere inst.,21PE,Erasmus Universiteit Rotterdam,gezondheidszorg,n.v.t. (gezondheidszorg),60312,M Clinical Research (research),voltijd onderwijs,master,2,1,3,2,1,0,0,1,7,10
 Zuid-Holland,599,ROTTERDAM,reguliere inst.,21PE,Erasmus Universiteit Rotterdam,gezondheidszorg,n.v.t. (gezondheidszorg),60375,M Infection and Immunity (research),voltijd onderwijs,master,10,16,10,12,12,14,16,15,12,27
 Zuid-Holland,599,ROTTERDAM,reguliere inst.,21PE,Erasmus Universiteit Rotterdam,gezondheidszorg,n.v.t. (gezondheidszorg),65017,M European Master in Health Economics and Management (joint degree),voltijd onderwijs,master,0,0,0,0,0,0,0,0,20,46
+Zuid-Holland,599,ROTTERDAM,reguliere inst.,21PE,Erasmus Universiteit Rotterdam,gezondheidszorg,n.v.t. (gezondheidszorg),6551,Geneeskunde,voltijd onderwijs,beroepsfase,186,344,129,241,44,56,13,22,0,0
+Zuid-Holland,599,ROTTERDAM,reguliere inst.,21PE,Erasmus Universiteit Rotterdam,gezondheidszorg,n.v.t. (gezondheidszorg),6551,Geneeskunde,voltijd onderwijs,propedeuse,2,2,0,0,0,0,0,0,0,0
 Zuid-Holland,599,ROTTERDAM,reguliere inst.,21PE,Erasmus Universiteit Rotterdam,gezondheidszorg,n.v.t. (gezondheidszorg),66551,M Geneeskunde,voltijd onderwijs,master,154,340,315,606,431,772,487,844,494,835
 Zuid-Holland,599,ROTTERDAM,reguliere inst.,21PE,Erasmus Universiteit Rotterdam,recht,n.v.t. (recht),50700,B Rechtsgeleerdheid,deeltijd onderwijs,bachelor,77,148,87,176,111,183,161,221,157,236
 Zuid-Holland,599,ROTTERDAM,reguliere inst.,21PE,Erasmus Universiteit Rotterdam,recht,n.v.t. (recht),50700,B Rechtsgeleerdheid,voltijd onderwijs,bachelor,440,694,473,726,567,781,610,814,622,926
