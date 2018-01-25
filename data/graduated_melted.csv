@@ -1,4 +1,4 @@
-province,municipality_id,municipality_name,institution_type,brin_id,institution_name,croho_section,croho_subsection,degree_course_id,degree_course_name,degree_course_education_type,degree_course_type,diploma_type,year,male_,female_
+province,municipality_id,municipality_name,institution_type,brin_id,institution_name,croho_section,croho_subsection,degree_course_id,degree_course_name,degree_course_education_type,degree_course_type,diploma_type,year,male,female
 Gelderland,200,APELDOORN,WO kleine univ.,21QO,Theologische Universiteit Apeldoorn,taal en cultuur,n.v.t. (taal en cultuur),56109,B Theologie,voltijd onderwijs,bachelor,wo bachelor,2011,13,1
 Gelderland,200,APELDOORN,WO kleine univ.,21QO,Theologische Universiteit Apeldoorn,taal en cultuur,n.v.t. (taal en cultuur),56109,B Theologie,voltijd onderwijs,bachelor,wo bachelor,2012,17,2
 Gelderland,200,APELDOORN,WO kleine univ.,21QO,Theologische Universiteit Apeldoorn,taal en cultuur,n.v.t. (taal en cultuur),56109,B Theologie,voltijd onderwijs,bachelor,wo bachelor,2013,12,2
